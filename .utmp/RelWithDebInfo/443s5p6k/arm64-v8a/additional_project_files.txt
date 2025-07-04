@@ -1,0 +1,1 @@
+D:\Without_libraries_Cyberquest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h

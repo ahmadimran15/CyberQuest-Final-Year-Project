@@ -1,0 +1,1 @@
+D:\Without_libraries_Cyberquest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\443s5p6k\obj\arm64-v8a

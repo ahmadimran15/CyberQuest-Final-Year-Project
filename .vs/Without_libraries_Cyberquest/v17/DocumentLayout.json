@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Without_libraries_Cyberquest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene4aftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4cutscene4aftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\LevelPass_or_Fail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelPass_or_Fail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CutSceneFlags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CutSceneFlags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cafeattack4Table3taskupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cafeattack4Table3taskupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cutscene2attack4loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cutscene2attack4loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PathDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\PathDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\SceneProgressManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4\\SceneProgressManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\DesktopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\DesktopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\ExitButtonHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\ExitButtonHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\CountDownText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\CountDownText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\PuzzleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\RestartPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\RestartPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\TileScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\TileScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Laptop\\StandardColorMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Laptop\\StandardColorMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\MainmenuTogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainmenuTogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Attack6mainScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\Attack6mainScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack6\\PuzzleState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PasswordChecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4\\PasswordChecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4wifihandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4wifihandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene1aftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Attack4cutscene1aftervideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\gamemanager_attack2_level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\gamemanager_attack2_level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\taskmanagerAttack3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CountdownTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CountdownTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\taskmanagerAttack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PuzzleManager.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\PuzzleManager.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\PuzzleManager.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAswNQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:03:57.08Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TileScript.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\TileScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\TileScript.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\TileScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\TileScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:06:46.828Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesktopManager.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\DesktopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\DesktopManager.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\DesktopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\DesktopManager.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAwwFoBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:06:29.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attack6mainScript.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Attack6mainScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\Attack6mainScript.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Attack6mainScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\Attack6mainScript.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAACIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:09:22.216Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CutSceneFlags.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CutSceneFlags.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CutSceneFlags.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CutSceneFlags.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CutSceneFlags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:58:57.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExitButtonHandler.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\ExitButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\ExitButtonHandler.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\ExitButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\ExitButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:05:25.884Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountDownText.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\CountDownText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\CountDownText.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\CountDownText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\CountDownText.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:55:34.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PathDrawer.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PathDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\PathDrawer.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PathDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\PathDrawer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:30:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cutscene2attack4loading.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cutscene2attack4loading.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cutscene2attack4loading.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cutscene2attack4loading.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cutscene2attack4loading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:33:50.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cafeattack4Table3taskupdate.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cafeattack4Table3taskupdate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cafeattack4Table3taskupdate.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Cafeattack4Table3taskupdate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cafeattack4Table3taskupdate.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:15:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneProgressManager.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\SceneProgressManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4\\SceneProgressManager.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\SceneProgressManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4\\SceneProgressManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:15:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Positive_Cutscene_dontbackup_Attack6.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\Positive_Cutscene_dontbackup_Attack6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:15:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StandardColorMask.shader",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Laptop\\StandardColorMask.shader",
+              "RelativeDocumentMoniker": "Assets\\Laptop\\StandardColorMask.shader",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Laptop\\StandardColorMask.shader",
+              "RelativeToolTip": "Assets\\Laptop\\StandardColorMask.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T19:31:18.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PuzzleState.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\PuzzleState.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\PuzzleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\PuzzleState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:29:19.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainmenuTogame.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\MainmenuTogame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainmenuTogame.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\MainmenuTogame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainmenuTogame.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:01:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PasswordChecker.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PasswordChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4\\PasswordChecker.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PasswordChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4\\PasswordChecker.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:10:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PanelManagerForAttack4AttackingOptions.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4\\PanelManagerForAttack4AttackingOptions.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:10:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Attack4wifihandling.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4wifihandling.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4wifihandling.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4wifihandling.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4wifihandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:10:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestartPuzzle.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\RestartPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\RestartPuzzle.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\RestartPuzzle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\RestartPuzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:45:45.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attack4_levelpass_orFailed.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4\\Attack4_levelpass_orFailed.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:32:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelPass_or_Fail.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\LevelPass_or_Fail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelPass_or_Fail.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\LevelPass_or_Fail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelPass_or_Fail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:27:28.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attack4cutscenePasswordWifiaftervideo.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4cutscenePasswordWifiaftervideo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:19:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attack4cutscene4aftervideo.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene4aftervideo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4cutscene4aftervideo.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene4aftervideo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4cutscene4aftervideo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:16:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Negative_Cutscene_Attack6.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\Negative_Cutscene_Attack6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:56:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Positive_Cutscene_Attack6.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack6\\Positive_Cutscene_Attack6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:53:20.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Attack4cutscene1aftervideo.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene1aftervideo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack4cutscene1aftervideo.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\Attack4cutscene1aftervideo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack4cutscene1aftervideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:52:43.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExploreLibraryvoice_Attack2.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExploreLibraryvoice_Attack2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:50:48.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "gamemanager_attack2_level1.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\gamemanager_attack2_level1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gamemanager_attack2_level1.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\gamemanager_attack2_level1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gamemanager_attack2_level1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:26:28.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountdownTimer.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CountdownTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CountdownTimer.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\CountdownTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CountdownTimer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:25:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "taskmanagerAttack3.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\taskmanagerAttack3.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\taskmanagerAttack3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:16:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "taskmanagerAttack2.cs",
+              "DocumentMoniker": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\taskmanagerAttack2.cs",
+              "ToolTip": "D:\\Without_libraries_Cyberquest\\Assets\\Scripts\\taskmanagerAttack2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\taskmanagerAttack2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:03:30.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
